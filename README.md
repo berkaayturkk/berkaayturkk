@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @berkaayturkk
-- 👀 I’m interested in Cyber Security and Backend Developmnet
+- 👀 I’m interested in Cyber Security and Backend Development
 - 🌱 I’m currently learning Python 
 
 <!---
